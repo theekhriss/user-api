@@ -1,5 +1,5 @@
 
-# User API - BCI Integration Specialist Challenge
+# User API - 
 
 ## Requisitos
 
